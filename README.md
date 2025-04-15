@@ -30,7 +30,7 @@ Siga os passos abaixo para rodar o app localmente em seu ambiente Flutter:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/tarefas-domesticas-flutter.git
+git clone https://github.com/PedroLeuchs/tarefa_domesticas_flutter.git
 cd tarefas-domesticas-flutter
 ```
 
