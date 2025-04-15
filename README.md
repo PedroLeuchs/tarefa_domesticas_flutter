@@ -19,8 +19,6 @@ Um aplicativo simples feito em Flutter para ajudar no gerenciamento de tarefas d
 
 <img src="screenshots/img2.png" width="300" alt="Tela de adicionar nova tarefa">
 
-> Obs: salve as imagens das telas na pasta `screenshots/` e use os nomes correspondentes.
-
 ---
 
 ## 🛠️ Instruções de Instalação
